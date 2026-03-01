@@ -1,6 +1,7 @@
 # First Challenge Git
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> Aku dari bahasa arab aku suka coding
 
 ## Latar Belakang
 
