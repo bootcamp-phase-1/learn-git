@@ -3,7 +3,8 @@ AKU TONI
 # First Challenge Git
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
->sdfdhghgi
+> Aku dari bahasa arab aku suka coding
+> sdfdhghgi
 
 ## Latar Belakang
 
